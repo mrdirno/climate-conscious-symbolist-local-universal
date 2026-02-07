@@ -1,0 +1,160 @@
+{
+  "book_id": "climate_conscious_symbolist_local_universal",
+  "title": "The Silence at Haven's End",
+  "tagline": "When a coastal town loses its words, a young woman must read the new language of a changing world.",
+  "target_words": 70000,
+  "actual_words": 76092,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Linguistic Extinction",
+    "Deep Time Memory",
+    "Animate Ecology",
+    "Cartography of Loss"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Word for River",
+      "words": 3171
+    },
+    {
+      "ch": 2,
+      "title": "A Colour for Morning",
+      "words": 3169
+    },
+    {
+      "ch": 3,
+      "title": "The Warm Bottom-Sea",
+      "words": 3171
+    },
+    {
+      "ch": 4,
+      "title": "The Figure on the Bluff",
+      "words": 3170
+    },
+    {
+      "ch": 5,
+      "title": "The Beacon's Pulse",
+      "words": 3171
+    },
+    {
+      "ch": 6,
+      "title": "Nets of Silence",
+      "words": 3170
+    },
+    {
+      "ch": 7,
+      "title": "The Cormorant's Shiver",
+      "words": 3171
+    },
+    {
+      "ch": 8,
+      "title": "Grandmother's Weather",
+      "words": 3170
+    },
+    {
+      "ch": 9,
+      "title": "The Salt-Pan Map",
+      "words": 3171
+    },
+    {
+      "ch": 10,
+      "title": "Buoy Code",
+      "words": 3170
+    },
+    {
+      "ch": 11,
+      "title": "The Processor's Spill",
+      "words": 3171
+    },
+    {
+      "ch": 12,
+      "title": "Aurora in the Clay",
+      "words": 3170
+    },
+    {
+      "ch": 13,
+      "title": "The Last Cod's Name",
+      "words": 3171
+    },
+    {
+      "ch": 14,
+      "title": "Trawl-Door Garden",
+      "words": 3170
+    },
+    {
+      "ch": 15,
+      "title": "The Starling's Mast",
+      "words": 3171
+    },
+    {
+      "ch": 16,
+      "title": "Hull-Talk",
+      "words": 3170
+    },
+    {
+      "ch": 17,
+      "title": "The Gulls' Exodus",
+      "words": 3171
+    },
+    {
+      "ch": 18,
+      "title": "Ozone and Yeast",
+      "words": 3170
+    },
+    {
+      "ch": 19,
+      "title": "The Surveyor's Drone",
+      "words": 3171
+    },
+    {
+      "ch": 20,
+      "title": "New Geography",
+      "words": 3170
+    },
+    {
+      "ch": 21,
+      "title": "The Colour Green",
+      "words": 3171
+    },
+    {
+      "ch": 22,
+      "title": "Reasoning with Timber",
+      "words": 3170
+    },
+    {
+      "ch": 23,
+      "title": "The Shape of Silence",
+      "words": 3171
+    },
+    {
+      "ch": 24,
+      "title": "The First New Word",
+      "words": 3170
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter from the perspective of the boat, *The Cormorant*, as it senses the 'warm bottom-sea.'",
+      "Create a folktale from Haven's End's past that explains the loss of the word for 'river.'",
+      "Write a scene where Elara tries to explain the 'buoy code' memory system to the mysterious surveyor.",
+      "Draft the log entries of Old Man Miro from the day the last cod left, to the present 'clean pots.'"
+    ],
+    "technical": [
+      "Build an interactive map of Haven's End where environmental data (water temp, bird sightings, silence) layers over the geography.",
+      "Design a 'Linguistic Extinction Tracker'—a visual tool showing words/concepts lost in a community as its environment changes."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Ursula K. Le Guin",
+      "John Steinbeck",
+      "Margaret Atwood",
+      "W.G. Sebald"
+    ]
+  },
+  "cover_prompt": "A young woman stands on a storm-worn pier, her hand outstretched as she reads the swirling, bioluminescent script written in the air by a school of migrating fish, while the silent coastal village of Haven's End recedes into a foggy hinterland behind her, its empty streets and shuttered windows speaking of a profound linguistic absence, in the atmospheric style of Zdzisław Beksiński's melancholic surrealism blended with the ecological precision of Ernst Haeckel's biological illustrations, book cover framing, centered composition with a low, dramatic angle looking up at the woman and the luminous aquatic text against a brooding sky, volumetric mist and ethereal glow lighting with a palette of deep oceanic blues, bruised purples, and the stark, hopeful gold of the bioluminescent language, masterpiece, best quality, ultra detailed, intricate details of weathered wood, textured fog, and intricate organic patterns in the light, professional composition, sharp focus, 8k resolution, flux dev."
+}
